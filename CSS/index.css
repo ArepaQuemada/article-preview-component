@@ -12,6 +12,10 @@ body {
 .attribution {
     height: 10%;
     background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
 }
 
 .container {
